@@ -29,7 +29,7 @@
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
 
-`ex) 2025-01-01 [CV 트랙추가] only_paper Add/Update/Delete`
+`ex) 2025-01-04 [CV Recent Trends] All/Only_Paper/Only_Further Add/Update/Delete`
 
 <br>
 
@@ -400,11 +400,6 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ### 6.2.6 CV Recent Trends
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
-- []()
-- []()
-- []()
-- []()
-- []()
 
 
 ## 6.3 NLP
@@ -486,3 +481,11 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 >이 문서는 계속 업데이트 예정입니다.
 궁금한 사항이나 제안이 있다면 Issue 혹은 Pull Request로 알려주세요!
 감사합니다.
+
+## 8. 📌Updates (Changelog)
+
+| 날짜       | 변경 사항                                                                                                         |
+|------------|-------------------------------------------------------------------------------------------------------------------|
+| 2025-01-01 | 🎨 **CV 업데이트**<br/>- CV 섹션 논문 목록을 추가하고 깔끔하게 정렬했습니다.                                        |
+| 2025-01-02 | ✨ **NLP 기본 섹션 업데이트**<br/>- NLP 이론 파트에 주요 논문 및 레퍼런스를 정리했습니다.                           |
+| 2025-01-04 | 🎨 **CV Recent Trends 섹션 업데이트**<br/>- CV recent trends 섹션에 최근 논문 목록을 추가했습니다. |
