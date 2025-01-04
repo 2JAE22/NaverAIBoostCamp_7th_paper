@@ -168,6 +168,43 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [ViT](https://arxiv.org/pdf/2010.11929)
 - [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)
 
+## 2.6 CV Recent Trends
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [Variational Diffusion Models](https://arxiv.org/abs/2107.00630)
+- [NVAE: A Deep Hierarchical Variational Autoencoder](https://arxiv.org/abs/2007.03898)
+- [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239)
+- [Improved Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2102.09672)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
+- [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512)
+- [Consistency Models](https://arxiv.org/abs/2303.01469)
+- [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+- [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
+- [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
+- [Hierarchical Text-Conditional Image Generation with CLIP latents](https://arxiv.org/abs/2204.06125)
+- [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
+- [Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://arxiv.org/abs/2203.08382)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+- [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618)
+- [Dreambooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
+- [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345)
+- [Unified Concept Editing in Diffusion Models](https://arxiv.org/abs/2308.14761)
+- [Video Diffusion Models](https://arxiv.org/abs/2204.03458)
+- [Video Probabilistic Diffusion Models in Projected Latent Space](https://arxiv.org/abs/2302.07685)
+- [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818)
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+- [zero-1-to-3: zero-shot one image to 3d object](https://arxiv.org/abs/2303.11328)
+- [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020)
+- [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/abs/2106.15282)
+- [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070)
+- [Solving Inverse Problem in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005)
+- [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126)
+- [ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)
+- [Your Diffusion Model is secretly a zero-shot classifier](https://arxiv.org/abs/2303.16203)
+- [Emergent Correspondence from Image Diffusion](https://arxiv.org/abs/2306.03881)
+- [AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise](https://ieeexplore.ieee.org/document/9857019)
+
+
 # 3. 📌NLP 트랙 정리(Only Paper)
 ## 3.1 NLP 이론
 - [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
@@ -295,13 +332,13 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 ### 6.1.3 EDA & DataViz
-- [[Harvard Business Review] Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy)
+- [[Harvard Business Review] Boost Your Team's Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy)
 - [[Sequoia Capital] Why Data Science Matters](https://medium.com/sequoia-capital/why-data-science-matters-ee583f785a55)
 - [[Sequoia Capital] Role of Data Scientist](https://medium.com/sequoia-capital/five-core-skills-of-a-data-scientist-fc044014fafa)
 - [데이터 시각화 교과서 (클라우스 윌케 저)](https://clauswilke.com/dataviz/index.html)
 - [Data Viz Project](https://datavizproject.com/)
 - [Misleading Data Visualization](https://pressbooks.library.torontomu.ca/criticaldataliteracy/chapter/misleading-data-visualizations/)
-- [[The Economists] Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
+- [[The Economists] Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
 - [[Google ML Course] Types of Bias](https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias?hl=ko)
 - [[Github] Awesome Feature Engineering](https://github.com/aikho/awesome-feature-engineering)
 - [[서울대 AI 연구원] 다차원 데이터 시각화와 AI (컴퓨터공학부 서진욱 교수)](https://www.youtube.com/watch?v=ymA1spEAd7M)
@@ -329,7 +366,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ## 6.2 CV
 ### 6.2.1 CV 이론   
-- [한겨례 뉴스 “빌게이츠도 감탄한 최예진 교수, 생성형 AI 학습 데이터 공개해야"](https://www.hani.co.kr/arti/economy/economy_general/1128825.html)
+- [한겨례 뉴스 "빌게이츠도 감탄한 최예진 교수, 생성형 AI 학습 데이터 공개해야"](https://www.hani.co.kr/arti/economy/economy_general/1128825.html)
 
 
 
@@ -360,6 +397,15 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ### 6.2.5 Semantic Segmentation
 - [Segmentation models library](https://github.com/qubvel/segmentation_models)
+
+### 6.2.6 CV Recent Trends
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## 6.3 NLP
 ### 6.3.1 NLP 이론
