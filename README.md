@@ -1,19 +1,61 @@
 # NaverAIBoostCamp_7기_paper
 
----
-**감사합니다**<br>
-🚀 첫 번째로, **정유진**([GitHub](https://github.com/uzlnee)) 님께서 **NLP 이론** [논문](#31-nlp-이론)들과 [further more](#631-nlp-이론) 을 꼼꼼하게 보강해주셨습니다!
+[![Since](https://img.shields.io/badge/since-2025.01.01-333333.svg?style=flat-square)](https://github.com/2JAE22/AI_Tech-paper)
+[![author](https://img.shields.io/badge/author-2JAE22-0066FF.svg?style=flat-square)](https://github.com/2JAE22)
+[![LICENSE](https://img.shields.io/github/license/2JAE22/AI_Tech-paper.svg?style=flat-square)](https://github.com/2JAE22/AI_Tech-paper/blob/main/LICENSE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2JAE22%2FAI_Tech-paper%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2?style=flat-square)](https://github.com/2JAE22/AI_Tech-paper/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF66FF.svg?style=flat-square)](http://makeapullrequest.com)
 
----
+[![Watch on GitHub](https://img.shields.io/github/watchers/2JAE22/AI_Tech-paper.svg?style=social)](https://github.com/2JAE22/AI_Tech-paper/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/2JAE22/AI_Tech-paper.svg?style=social)](https://github.com/2JAE22/AI_Tech-paper/stargazers)
+[![Fork on GitHub](https://img.shields.io/github/forks/2JAE22/AI_Tech-paper.svg?style=social)](https://github.com/2JAE22/AI_Tech-paper/network/members)
 
-# 1. Introduction
+
+
+<br> 
+
+**Collaborator**
+
+[<img src="https://avatars.githubusercontent.com/u/87936538?v=4" width="100">](https://github.com/2JAE22)  
+[GitHub](https://github.com/2JAE22)
+
+<br>
+
+**Commit convention rule** : 날짜-[주제]-내용-상태
+
+`ex) 2025-01-01 [CV 트랙추가] only_paper Add/Update/Delete`
+
+<br>
+
+잘못된 내용은 [이슈](https://github.com/2JAE22/AI_Tech-paper/issues)와 [PR](https://github.com/2JAE22/AI_Tech-paper/pulls)로 알려주세요 💡
+
+<br>
+
+
+
+<center>🙏도움을 주신 분들🙏</center>
+
+<br>
+<br>
+
+<a href="https://github.com/2JAE22/AI_Tech-paper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=2JAE22/AI_Tech-paper" />
+</a>
+
+<br>
+
+
+#### 더 좋은 컨텐츠를 제공받길 원한다면 [💖후원하기!!💝](https://github.com/sponsors/2JAE22)
+
+# 1. 📌Introduction
 NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입니다.
 현재는 CV(Computer Vision) 트랙의 논문을 중심으로 정리하고 있으며, 추후 모든 트랙으로 확장할 예정입니다.
 
 # 2에서 5까지는 논문만 있습니다.
 - [6](#6-further-reading에-있었던-것들)부터 논문외의 사이트들을 정리하였습니다.
 
-# 2. CV 트랙 정리(Only Paper)
+# 2. 📌CV 트랙 정리(Only Paper)
 ## 2.1 CV 이론
 - [VGGNet](https://arxiv.org/abs/1409.1556)  
 - [ResNet](https://arxiv.org/abs/1512.03385)  
@@ -121,7 +163,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [ViT](https://arxiv.org/pdf/2010.11929)
 - [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)
 
-# 3. NLP 트랙 정리(Only Paper)
+# 3. 📌NLP 트랙 정리(Only Paper)
 ## 3.1 NLP 이론
 - [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
 - [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/)
@@ -153,7 +195,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 ## 3.5 Generative for NLP
 
 
-# 4. Recsys 트랙 정리(Only Paper)
+# 4. 📌Recsys 트랙 정리(Only Paper)
 ## 4.1 Recsys 이론
 ## 4.2 ML 기초 프로젝트
 ## 4.3 Competitive DS
@@ -162,7 +204,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 
-# 5. 공통 강의에서 소개한 논문 정리
+# 5. 📌공통 강의에서 소개한 논문 정리
 ## 5.1 Generative AI
 - [LLM Survey 논문 (2023)](https://arxiv.org/abs/2303.18223)
 - [GAN Survey 논문 (2020)](https://arxiv.org/abs/1906.01529)
@@ -214,7 +256,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 ---
 
 **여기서부터는 논문외의 읽을거리들로 있었던 것들을 정리하였습니다.**
-# 6. Further Reading에 있었던 것들.
+# 6. 📌Further Reading에 있었던 것들.
 ## 6.1 공통코스
 ### 6.1.1 Pytorch
 - [Introduction to PyTorch — PyTorch Tutorials documentation](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
@@ -379,7 +421,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [Pipeline Parallelism Algorithm](https://siboehm.com/articles/22/pipeline-parallel-training)
 - [단일 머신을 사용한 모델 병렬화 모범 사례](https://tutorials.pytorch.kr/intermediate/model_parallel_tutorial.html)
 
-# 7. Contribution 하는 방법
+# 7. 📌Contribution 하는 방법
 
 ## 7.1 Fork를 한다.
 - 원본 저장소를 내 계정으로 복사(Fork)
