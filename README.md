@@ -238,7 +238,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [Non-Autoregressive & Autoregressive](https://arxiv.org/abs/2102.08220)
 
 
-## 3.3 MRC
+## 3.3 MRC(Machine Reading Comprehension)
 - []()
 - []()
 - []()
