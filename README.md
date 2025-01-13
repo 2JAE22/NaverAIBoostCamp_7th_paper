@@ -295,40 +295,35 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 # 4. 📌Recsys 트랙 정리(Only Paper)
 ## 4.1 Recsys 이론
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/abs/1802.05814)
+- [Diffusion Recommendation Model](https://arxiv.org/abs/2304.04971)
+- [Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo](https://www.cs.cmu.edu/~rsalakhu/papers/bpmf.pdf)
+- [Probabilistic Matrix Factorization](https://proceedings.neurips.cc/paper_files/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)
+- [Understanding Black-box Predictions via Influence Functions, ICML 2017](https://arxiv.org/pdf/1703.04730)
+- [Data Shapley: Equitable Valuation of Data for Machine Learning,ICML 2019](https://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)
+- [Data Valuation using Reinforcement Learning, ICML 2020](https://proceedings.mlr.press/v119/yoon20a/yoon20a.pdf)
+- [Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value, ICML 2023](https://arxiv.org/pdf/2304.07718)
+- [Efficient Neural Causal Discovery without Acyclicity Constraints](https://arxiv.org/abs/2107.10483)
+- [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms ](https://arxiv.org/abs/1901.10912)
+- [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050)
+
 
 ## 4.2 ML 기초 프로젝트
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/abs/1709.02840)
+- [Zheng, Alice, and Amanda Casari. Feature engineering for machine learning: principles and techniques for data scientists. " O'Reilly Media, Inc.", 2018.](https://books.google.co.kr/books?hl=ko&lr=&id=sthSDwAAQBAJ&oi=fnd&pg=PT14&dq=Zheng,+Alice,+and+Amanda+Casari.+Feature+engineering+for+machine+learning:+principles+and+techniques+for+data+scientists.+%22+O%27Reilly+Media,+Inc.%22,+2018.&ots=ZPZfvU0jz-&sig=tjYsynIo-QTjNiZuFPOuuHB6naY#v=onepage&q=Zheng%2C%20Alice%2C%20and%20Amanda%20Casari.%20Feature%20engineering%20for%20machine%20learning%3A%20principles%20and%20techniques%20for%20data%20scientists.%20%22%20O'Reilly%20Media%2C%20Inc.%22%2C%202018.&f=false)
+- [Hastie, Trevor, et al. The elements of statistical learning: data mining, inference, and prediction. Vol. 2. New York: springer, 2009.](https://link.springer.com/book/10.1007/978-0-387-21606-5)
+- [SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.](https://arxiv.org/abs/1106.1813)
+- [Gradient Boosting Paper](https://www.semanticscholar.org/paper/Greedy-function-approximation%3A-A-gradient-boosting-Friedman/1679beddda3a183714d380e944fe6bf586c083cd)
+- [XGBoost Paper](https://www.semanticscholar.org/paper/XGBoost%3A-A-Scalable-Tree-Boosting-System-Chen-Guestrin/26bc9195c6343e4d7f434dd65b4ad67efe2be27a)
+- [LightGBM Paper](https://www.semanticscholar.org/paper/LightGBM%3A-A-Highly-Efficient-Gradient-Boosting-Tree-Ke-Meng/497e4b08279d69513e4d2313a7fd9a55dfb73273)
+- [Lasso Regression Paper](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf)
+- [Ridge Regression Paper](https://mineracaodedados.wordpress.com/wp-content/uploads/2015/06/ridge-regression-biased-estimation-for-nonorthogonal-problems.pdf)
+- [Ensemble deep learning: A review](https://arxiv.org/abs/2104.02395)
+- [Random Search for Hyper-Parameter Optimization](https://www.jmlr.org/papers/v13/bergstra12a.html)
+- [Practical Bayesian Optimization of Machine Learning Algorithms](https://arxiv.org/abs/1206.2944)
+- [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/abs/1804.03515)
+- [Management of Machine Learning Lifecycle Artifacts: A Survey](https://arxiv.org/abs/2210.11831)
+
 
 ## 4.3 Competitive DS
 - []()
@@ -644,40 +639,25 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ## 6.4 Recsys
 ### 6.4.1 Recsys 이론
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [중심극한정리, Central Limit Theorem](https://m.blog.naver.com/mykepzzang/220851280035)
+- [최대우도법(MLE)](https://angeloyeo.github.io/2020/07/17/MLE.html)
+- [가우시안 혼합 모델(Gaussian Mixture Model)](https://untitledtblog.tistory.com/133)
+- [KL divergence](https://angeloyeo.github.io/2020/10/27/KL_divergence.html)
+- [VI(Variational Inference)](https://velog.io/@gibonki77/Inference-2)
+- [Markov Chain Monte Carlo - 공돌이의 수학정리 노트](https://angeloyeo.github.io/2020/09/17/MCMC.html)
+- [Influence Function에 대한 이해](https://tootouch.github.io/IML/influential_instances/)
+- [Trustworthy Machine Learning (Chapter 3 p.116-p.219)](https://arxiv.org/abs/2310.08215)
+- [Python으로 하는 인과추론 : 개념부터 실습까지](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)
+
 
 ### 6.4.2 ML 기초 프로젝트
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Is there a rule-of-thumb for how to divide a dataset into training and validation sets? - stackoverflow](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
+- [Data Leakage in The ICML 2013 Whale Challenge](https://www.kaggle.com/competitions/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865)
+- [regression-metrics-for-mashine-learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
+- [Cross-Validation-Techniques](https://medium.com/geekculture/cross-validation-techniques-33d389897878)
+- [Weights & Biases 공식 튜토리얼 문서](https://docs.wandb.ai/tutorials/)
+- [Weights & Biases 공식 예제 깃허브 저장소](https://github.com/wandb/examples)
+- [The Kaggle Book: Data analysis and machine learning for competitive data science. Packt Publishing Ltd, 2022.](https://github.com/PacktPublishing/The-Kaggle-Book)
 
 ### 6.4.3 Competitive DS
 - []()
@@ -792,5 +772,6 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 | 2025-01-01 | 🎨 **CV 업데이트**<br/>- CV 섹션 논문 목록을 추가하고 깔끔하게 정렬했습니다.                                        |
 | 2025-01-02 | ✨ **NLP 이론 섹션 업데이트**<br/>- NLP 이론 파트에 주요 논문 및 레퍼런스를 추가했습니다.                           |
 | 2025-01-04 | 🎨 **CV Recent Trends 섹션 업데이트**<br/>- CV recent trends 섹션에 최근 논문 목록을 추가했습니다. |
-| 2025-01-13 | ✨ **NLP 기초 프로젝트 섹션 업데이트**<br/>- NLP 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가가했습니다.          |
+| 2025-01-13 | ✨ **NLP 기초 프로젝트 섹션 업데이트**<br/>- NLP 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
+| 2025-01-13 | 🌱 **Recsys 이론 및 기초 프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
 
