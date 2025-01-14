@@ -239,24 +239,39 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 ## 3.3 MRC(Machine Reading Comprehension)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.boostcourse.org/boostcampaitech7/lecture/1545463?isDesc=false)
+- [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5) ](https://arxiv.org/abs/1910.10683)
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)
+- [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
+- [A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics and Benchmark Datasets](https://arxiv.org/abs/2006.11880)
+- [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)
+- [Exploring the limits of transfer learning with a unified text-to-text transformer(T5)](https://arxiv.org/abs/1910.10683)
+- [How much knowledge can you pack into the parameters of language model?](https://arxiv.org/abs/2002.08910)
+- [UNIFIEDQA: Crossing Format Boundaries with a Single QA System](https://arxiv.org/abs/2005.00700)
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+- [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807)
+- [Contextualized Sparse Representations for Real-Time Open-Domain Question Answering](https://arxiv.org/abs/1911.02896)
+
 
 ## 3.4 Data-Centric NLP
+- [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228)
+- [A Survey on Awesome Korean NLP Datasets](https://ieeexplore.ieee.org/abstract/document/9952930)
+- [ProsocialDialog: A Prosocial Backbone for Conversational Agents](https://aclanthology.org/2022.emnlp-main.267/)
+- [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/abs/1708.05148)
+- [Understanding Back-Translation at Scale](https://arxiv.org/abs/1808.09381)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
+- [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
+- [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007)
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
+- [Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information](https://arxiv.org/abs/2301.05036)
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+
+
+## 3.5 Generative for NLP
 - []()
 - []()
 - []()
@@ -274,7 +289,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - []()
 - []()
 
-## 3.5 Generative for NLP
+## 3.6 NLP Recent Trends
 - []()
 - []()
 - []()
@@ -326,40 +341,37 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 ## 4.3 Competitive DS
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [SAINT Model Paper](https://arxiv.org/abs/2108.12775)
+- [Deep Knowledge Tracing](https://arxiv.org/abs/1506.05908)
+
 
 ## 4.4 RecSys 기초프로젝트
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Improved Apriori Algorithm for Mining Association Rules](https://www.mecs-press.org/ijitcs/ijitcs-v6-n7/IJITCS-V6-N7-3.pdf)
+- [Matrix Factorization Techniques for Recommender Systems ](https://datajobs.com/data-science-repo/Recommender-Systems-%5bNetflix%5d.pdf)
+- [BPR: Bayesian personalized ranking from implicit feedback](https://arxiv.org/pdf/1205.2618)
+- [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031)
+- [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)
+- [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/%7Eakmenon/papers/autorec/autorec-paper.pdf)
+- [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://www.datascienceassn.org/sites/default/files/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
+- [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108)
+- [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126)
+- [When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation](https://web-ainf.aau.at/pub/jannach/files/Conference_RecSys_2017.pdf)
+- [Factorization Machines](https://sdcast.ksdaemon.ru/wp-content/uploads/2020/02/Rendle2010FM.pdf)
+- [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/%7Ecjlin/papers/ffm.pdf)
+- [Greedy Function Approximation: A Gradient Boosting Machine](https://jerryfriedman.su.domains/ftp/trebst.pdf)
+- [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
+- [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
+- [CatBoost: unbiased boosting with categorical features](https://arxiv.org/pdf/1706.09516)
+- [Wide & Deep Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2988450.2988454)
+- [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247)
+- [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978)
+- [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874)
+- [An Empirical Evaluation of Thompson Sampling](https://proceedings.neurips.cc/paper/2011/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf)
+- [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146)
+- [RecSys Challenge 2023: Deep Funnel Optimization with a Focus on User Privacy](https://dl.acm.org/doi/proceedings/10.1145/3626221)
 
 ## 4.5 Movie Rec
 - []()
@@ -379,8 +391,23 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - []()
 - []()
 
-
-
+## 4.6 Recsys Recent Trends
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 # 5. 📌공통 강의에서 소개한 논문 정리
 ## 5.1 Generative AI
 - [LLM Survey 논문 (2023)](https://arxiv.org/abs/2303.18223)
@@ -583,41 +610,34 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 
-### 6.3.3 MRC
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+### 6.3.3 MRC(Machine Reading Comprehension)
+- [문자열 type에 관련된 정리글](https://kunststube.net/encoding/)
+- [KorQuAD 데이터 소개 슬라이드](https://www.slideshare.net/slideshow/korquad-introduction/129498665)
+- [Naver Engineering: KorQuAD 소개 및 MRC 연구 사례 영상](https://tv.naver.com/v/5564630)
+- [SQuAD 데이터셋 둘러보기](https://rajpurkar.github.io/SQuAD-explorer/)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+- [Huggingface datasets](https://huggingface.co/datasets)
+- [Introducing BART](https://sshleifer.github.io/blog_v2/jupyter/2020/03/12/bart.html)
+- [Pyserini BM25 MSmarco documnet retrieval 코드](https://github.com/castorini/pyserini/blob/master/docs/experiments-msmarco-doc.md)
+- [Sklearn feature extractor](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
+- [Open domain QA tutorial: Dense retrieval](https://github.com/danqi/acl2020-openqa-tutorial/blob/master/slides/part5-dense-retriever-e2e-training.pdf)
+- [FAISS blog](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
+- [FAISS github](https://github.com/facebookresearch/faiss)
+- [FAISS tutorial](https://github.com/facebookresearch/faiss/tree/main/tutorial/python)
+- [Getting started with Faiss](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
+- [ACL 2020 ODQA tutorial](https://slideslive.com/38931668/t8-opendomain-question-answering)
+- [Phrase Retrieval and Beyond](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
 ### 6.3.4 Data-Centric NLP
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
+- [Crowdsourced Data Collection Benefits & Best Practices ['25]](https://research.aimultiple.com/crowdsourced-data/)
+- [KLUE benchmark](https://klue-benchmark.com/)
+- [EIGHTH CONFERENCE ON MACHINE TRANSLATION (WMT23)](https://www2.statmt.org/wmt23/)
+- [Tokenizers_huggingface](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt)
+- [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
+- [2023년 1분기 인공지능(AI) 및 자연어처리(NLP) 주요 뉴스](https://www.letr.ai/ko/blog/story-230407)
+- [LLM에 환각이 발생하는 원인과 해결 방안](https://moon-walker.medium.com/llm%EC%97%90-halluciation-%ED%99%98%EA%B0%81-%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88-f18759f0a959)
+
 
 ### 6.3.5 Generative for NLP
 - []()
@@ -637,6 +657,23 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - []()
 - []()
 
+### 6.3.6 NLP Recent Trends
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 ## 6.4 Recsys
 ### 6.4.1 Recsys 이론
 - [중심극한정리, Central Limit Theorem](https://m.blog.naver.com/mykepzzang/220851280035)
@@ -660,24 +697,43 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [The Kaggle Book: Data analysis and machine learning for competitive data science. Packt Publishing Ltd, 2022.](https://github.com/PacktPublishing/The-Kaggle-Book)
 
 ### 6.4.3 Competitive DS
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [An Introduction to Statistical Learning](https://www.statlearning.com)
+- [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732)
+- [Time Series Analysis: Forecasting and Control](https://www.wiley.com/en-us/Time+Series+Analysis%3A+Forecasting+and+Control%2C+5th+Edition-p-9781118675021)
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
+- [Deep Learning book](https://www.deeplearningbook.org/)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Introduction to Data Mining](https://www.pearson.com/en-us/subject-catalog/p/introduction-to-data-mining/P200000003204/9780137506286)
+- [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
+- [LightGBM Documentation](https://lightgbm.readthedocs.io/en/stable/)
+- [CatBoost Documentation](https://catboost.ai/docs/en/)
+- [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive/dp/1138079227)
+- [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Ensemble Methods: Foundations and Algorithms](https://www.routledge.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439830031)
+- [Automated Machine Learning: Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5)
+- [Hyperparameter Optimization: A Practical Guide](https://link.springer.com/chapter/10.1007/978-3-030-05318-5_3)
+- [Optuna Documentation](https://optuna.readthedocs.io/en/stable/)
 
 ### 6.4.4 RecSys 기초프로젝트
+- [[추천 시스템] 성능 평가 방법 - Precision, Recall, NDCG, Hit Rate, MAE, RMSE](https://sungkee-book.tistory.com/11)
+- [한국어와 NLTK, Gensim의 만남 @ PyCon Korea 2015](https://www.lucypark.kr/docs/2015-pyconkr/#1)
+- [17 types of similarity and dissimilarity measures used in data science.](https://towardsdatascience.com/17-types-of-similarity-and-dissimilarity-measures-used-in-data-science-3eb914d2681)
+- [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
+- [TOROS N2 - lightweight approximate Nearest Neighbor library](https://www.slideshare.net/ifkakao/toros-n2-lightweight-approximate-nearest-neighbor-library-119540069)
+- [ANN-Benchmarks](https://ann-benchmarks.com/index.html)
+- [(영상) XGBoost - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ)
+- [(영상) 04-8: Ensemble Learning - LightGBM (앙상블 기법 - LightGBM)](https://www.youtube.com/watch?v=4C8SUZJPlMY)
+- [Catboost 주요 개념과 특징 이해하기](https://dailyheumsi.tistory.com/136)
+- [(영상) 뭐볼까? : 네이버 AiRS 인공지능 콘텐츠 추천의 진화](https://tv.naver.com/v/16968202)
+- [논문 리뷰 A Contextual-Bandit Approach to Personalized News Article Recommendation](https://leehyejin91.github.io/post-contextual_bandit/)
+- [RecSys Challenge 2023 Homepage](https://www.recsyschallenge.com/2023/)
+
+
+### 6.4.5 Movie Rec
 - []()
 - []()
 - []()
@@ -695,7 +751,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - []()
 - []()
 
-### 6.4.5 Movie Rec
+### 6.4.6 Recsys Recent Trends
 - []()
 - []()
 - []()
@@ -773,5 +829,8 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 | 2025-01-02 | ✨ **NLP 이론 섹션 업데이트**<br/>- NLP 이론 파트에 주요 논문 및 레퍼런스를 추가했습니다.                           |
 | 2025-01-04 | 🎨 **CV Recent Trends 섹션 업데이트**<br/>- CV recent trends 섹션에 최근 논문 목록을 추가했습니다. |
 | 2025-01-13 | ✨ **NLP 기초 프로젝트 섹션 업데이트**<br/>- NLP 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
-| 2025-01-13 | 🌱 **Recsys 이론 및 기초 프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
+| 2025-01-13 | 🌱 **Recsys 이론 및 ML 기초 프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
+| 2025-01-14 | ✨ **NLP MRC & Data-Centric 섹션 업데이트**<br/>- NLP 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
+| 2025-01-14 | 🌱 **Recsys Competitive DS & Recsys 기초프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
+
 
