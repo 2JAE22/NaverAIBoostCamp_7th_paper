@@ -1,4 +1,5 @@
-# NaverAIBoostCamp_7기_paper
+# NaverAIBoostCamp_7기_paper [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 [![Since](https://img.shields.io/badge/since-2025.01.01-333333.svg?style=flat-square)](https://github.com/2JAE22/AI_Tech-paper)
 [![author](https://img.shields.io/badge/author-2JAE22-0066FF.svg?style=flat-square)](https://github.com/2JAE22)
