@@ -1,5 +1,6 @@
 # NaverAIBoostCamp_7기_paper [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+🔥25/02/21자로 **모든 paper를 추가**하였습니다!🔥
 
 [![Since](https://img.shields.io/badge/since-2025.01.01-333333.svg?style=flat-square)](https://github.com/2JAE22/AI_Tech-paper)
 [![author](https://img.shields.io/badge/author-2JAE22-0066FF.svg?style=flat-square)](https://github.com/2JAE22)
@@ -828,4 +829,4 @@ Large Language Model with Recommendation](https://arxiv.org/pdf/2305.00447)
 | 2025-01-14 | ✨ **NLP MRC & Data-Centric 섹션 업데이트**<br/>- NLP 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
 | 2025-01-14 | 🌱 **Recsys Competitive DS & Recsys 기초프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
 | 2025-01-21 | ✨ **NLP Generation & Recent  섹션 업데이트**<br/>- NLP  파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
-
+| 2025-02-21 | 🔥 **모든 paper를 추가하였습니다** |
