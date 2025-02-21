@@ -433,7 +433,6 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 Training and Mixture-of-Experts Transformation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401178)
 - [Variational Autoencoders for Collaborative Filtering (Liang et al., WWW 2018)](https://arxiv.org/pdf/1802.05814)
 - [Local Latent Space Models for Top-N Recommendation (Christakopoulou et al., KDD 2018)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220112)
-
 - [TALLRec: An Effective and Efficient Tuning Framework to Align
 Large Language Model with Recommendation](https://arxiv.org/pdf/2305.00447)
 
