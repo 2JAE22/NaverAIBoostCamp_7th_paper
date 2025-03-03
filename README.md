@@ -817,7 +817,7 @@ Large Language Model with Recommendation](https://arxiv.org/pdf/2305.00447)
 궁금한 사항이나 제안이 있다면 Issue 혹은 Pull Request로 알려주세요!
 감사합니다.
 
-## 8. 📌Updates (Changelog)
+## 8. 📌Updates (Changelog) - finished at 25-02-21🔥
 
 | 날짜       | 변경 사항                                                                                                         |
 |------------|-------------------------------------------------------------------------------------------------------------------|
@@ -830,3 +830,9 @@ Large Language Model with Recommendation](https://arxiv.org/pdf/2305.00447)
 | 2025-01-14 | 🌱 **Recsys Competitive DS & Recsys 기초프로젝트 섹션 업데이트**<br/>- Recsys 기초 프로젝트 파트에 주요 논문 및 레퍼런스를 추가했습니다.      |
 | 2025-01-21 | ✨ **NLP Generation & Recent  섹션 업데이트**<br/>- NLP  파트에 주요 논문 및 레퍼런스를 추가했습니다.          |
 | 2025-02-21 | 🔥 **모든 paper를 추가하였습니다** |
+
+
+## 9. 📌Star History
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=2JAE22/NaverAIBoostCamp_7th_paper&type=Date)](https://star-history.com/#2JAE22/NaverAIBoostCamp_7th_paper&Date)
+
